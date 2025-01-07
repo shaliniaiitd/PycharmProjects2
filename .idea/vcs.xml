@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlaywrightPython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RobotFramework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RobotFramework/QuickStartGuide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RobotFramework/RobotFrameworkTestAutomation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RobotFramework/evaluation-py-robot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Selenium_Python" vcs="Git" />
+  </component>
+</project>
